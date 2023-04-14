@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['scanconfig_0',['ScanConfig',['../class_sturfee_v_p_s_1_1_s_d_k_1_1_multiframe_scanner.html#a9ddeb060ab23935d0375d8836b41e75b',1,'SturfeeVPS::SDK::MultiframeScanner']]],
+  ['scanner_1',['Scanner',['../class_sturfee_v_p_s_1_1_s_d_k_1_1_simple_localization_provider.html#af64345669ba6f9a467cb22fd3e0d25fa',1,'SturfeeVPS.SDK.SimpleLocalizationProvider.Scanner()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_sturfee_v_p_s_localization_provider.html#a69af04e4b040524c6dd8601e4505c6cc',1,'SturfeeVPS.SDK.SturfeeVPSLocalizationProvider.Scanner()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_base_localization_provider.html#a9265dc2cf907652be1ad4f1776ebc871',1,'SturfeeVPS.SDK.BaseLocalizationProvider.Scanner()']]],
+  ['scantype_2',['ScanType',['../interface_sturfee_v_p_s_1_1_s_d_k_1_1_i_scanner.html#a8f71e5b5ab3587ef61034e3731bf614b',1,'SturfeeVPS.SDK.IScanner.ScanType()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_scanner.html#a52ec157d1aa40c78286413ed6e6055f9',1,'SturfeeVPS.SDK.Scanner.ScanType()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_multiframe_scanner.html#a08b226a7a6c29d4f81ae267f3f9905b8',1,'SturfeeVPS.SDK.MultiframeScanner.ScanType()']]],
+  ['sceneheight_3',['SceneHeight',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_internal_parameters.html#a7baf7e4c0b5e062bbb8337a2da568166',1,'SturfeeVPS::Core::Proto::InternalParameters']]],
+  ['sceneid_4',['SceneId',['../class_shared_space_image_data.html#a54d24ea86f7cef49172ea93304482375',1,'SharedSpaceImageData']]],
+  ['scenewidth_5',['SceneWidth',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_internal_parameters.html#a11982ddaf8739d8949ef9ce784ec64d0',1,'SturfeeVPS::Core::Proto::InternalParameters']]],
+  ['sessionid_6',['SessionId',['../class_sturfee_1_1_x_r_c_s_1_1_auth_manager.html#a9f5b767c0520c1737856c165b19a32d6',1,'Sturfee::XRCS::AuthManager']]],
+  ['sharedspaceimage_7',['SharedSpaceImage',['../class_save_shared_space_image_response.html#ae43b731a45c0eaf90b4f70c6a763bb35',1,'SaveSharedSpaceImageResponse']]],
+  ['site_8',['Site',['../class_sturfee_v_p_s_1_1_s_d_k_1_1_h_d_site_tiles_provider.html#a4b93d191d2b5ed5ae4009b95536462f7',1,'SturfeeVPS::SDK::HDSiteTilesProvider']]],
+  ['siteid_9',['SiteId',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_request.html#ae0c76d2d3797c0fff67ad5d5c2081297',1,'SturfeeVPS::Core::Proto::Request']]],
+  ['sites_10',['Sites',['../class_sturfee_v_p_s_1_1_s_d_k_1_1_h_d_sites_manager.html#a34dd983991baf1562603f295265b33cf',1,'SturfeeVPS::SDK::HDSitesManager']]],
+  ['snapx_11',['SnapX',['../class_joystick.html#ac843b345e25e7f4b8bf75fefda98510b',1,'Joystick']]],
+  ['snapy_12',['SnapY',['../class_joystick.html#a8aad7e27207039d334ed40efec45f23a',1,'Joystick']]],
+  ['sortoption_13',['SortOption',['../class_find_spaces_filter.html#a61185a94bee14603289f37bb8366da8d',1,'FindSpacesFilter']]],
+  ['sourceimage_14',['SourceImage',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_request.html#a122e817e15fb5b69775f82be8a5477a8',1,'SturfeeVPS::Core::Proto::Request']]],
+  ['sturfee_5fsid_15',['sturfee_sid',['../class_sturfee_1_1_x_r_c_s_1_1_new_session_response.html#acf445a5f5d7a9a65fe9498de1fb3fcc8',1,'Sturfee::XRCS::NewSessionResponse']]],
+  ['successbutton_16',['SuccessButton',['../class_alert_dialog.html#a3536a263599018843289c1fd9d1792e7',1,'AlertDialog']]]
+];

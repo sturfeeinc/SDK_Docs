@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['y_0',['Y',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_quaternion.html#a66d06a1a560798e3905673f35e86c332',1,'SturfeeVPS.Core.Proto.Quaternion.Y()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_xr_quaternion.html#a6c6abaa8b89d52b77bb48cda55286fb5',1,'SturfeeVPS.SDK.XrQuaternion.Y()']]],
+  ['yawoffset_1',['YawOffset',['../interface_sturfee_v_p_s_1_1_core_1_1_i_localization_provider.html#a4fc07cec3d44e15237f6d2d169ffbfd5',1,'SturfeeVPS.Core.ILocalizationProvider.YawOffset()'],['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_offset_euler.html#a9e912f3ad2cf865d89c29b98cdb3e7d6',1,'SturfeeVPS.Core.Proto.OffsetEuler.YawOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_simple_localization_provider.html#a79d3fc2d7adb6ebb20fd05569a2b2034',1,'SturfeeVPS.SDK.SimpleLocalizationProvider.YawOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_sturfee_v_p_s_localization_provider.html#a2b5f6e327262fd1b003423a1bc9a8d1e',1,'SturfeeVPS.SDK.SturfeeVPSLocalizationProvider.YawOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_base_localization_provider.html#aab6e71e3120b0e69fd887b16588b1219',1,'SturfeeVPS.SDK.BaseLocalizationProvider.YawOffset()']]],
+  ['yawoffsetquaternion_2',['YawOffsetQuaternion',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_response.html#a7411d47743aa2198278b78efea4a38b4',1,'SturfeeVPS::Core::Proto::Response']]]
+];

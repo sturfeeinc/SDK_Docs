@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['radius_0',['Radius',['../class_find_spaces_filter.html#a83c3844af02a366927597da4a48a572e',1,'FindSpacesFilter.Radius()'],['../class_xr_project_filter.html#a5b7f5c6d5727996e523602e5ff8031f1',1,'XrProjectFilter.Radius()']]],
+  ['remotedata_1',['RemoteData',['../class_sturfee_v_p_s_1_1_s_d_k_1_1_samples_1_1_remote_a_r_manager.html#a6d8faa3c5a085600a7fd3fb9a36774f4',1,'SturfeeVPS::SDK::Samples::RemoteARManager']]],
+  ['removefeature_2',['RemoveFeature',['../class_digital_twin_feature.html#abebaf446d304de168ed864c2c9fbff62',1,'DigitalTwinFeature']]],
+  ['requestid_3',['RequestId',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_request.html#ad4b3f78c853a4b61390ab668ea2d6a86',1,'SturfeeVPS.Core.Proto.Request.RequestId()'],['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_response_message.html#aa146b7df534f0666d8feb1ab8584b10c',1,'SturfeeVPS.Core.Proto.ResponseMessage.RequestId()']]],
+  ['response_4',['Response',['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_response_message.html#aa5b11ae8dd31e38e687476813aa8127d',1,'SturfeeVPS::Core::Proto::ResponseMessage']]],
+  ['result_5',['Result',['../class_android_runtime_permissions_namespace_1_1_permission_callback.html#a744343abebb3ebc80391d75a338d758c',1,'AndroidRuntimePermissionsNamespace::PermissionCallback']]],
+  ['rolloffset_6',['RollOffset',['../interface_sturfee_v_p_s_1_1_core_1_1_i_localization_provider.html#a43ff83724e6dc6b3b025d4b9711f2216',1,'SturfeeVPS.Core.ILocalizationProvider.RollOffset()'],['../class_sturfee_v_p_s_1_1_core_1_1_proto_1_1_offset_euler.html#a537fd2dbfafa53a85e4d8c057cff77cd',1,'SturfeeVPS.Core.Proto.OffsetEuler.RollOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_simple_localization_provider.html#a159a396b4dabdc748a44e6b1fbc277ae',1,'SturfeeVPS.SDK.SimpleLocalizationProvider.RollOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_sturfee_v_p_s_localization_provider.html#ae3ae4317122a24fd5df61012fda19821',1,'SturfeeVPS.SDK.SturfeeVPSLocalizationProvider.RollOffset()'],['../class_sturfee_v_p_s_1_1_s_d_k_1_1_base_localization_provider.html#aa2fb0daf5f60ec7918ddd6859a79c723',1,'SturfeeVPS.SDK.BaseLocalizationProvider.RollOffset()']]],
+  ['rotationoffset_7',['RotationOffset',['../class_sturfee_v_p_s_1_1_core_1_1_xr_session.html#a32235e914e4d6b9cf417efe56ba76479',1,'SturfeeVPS::Core::XrSession']]]
+];

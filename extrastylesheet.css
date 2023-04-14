@@ -1,0 +1,31 @@
+body {
+    background-color: White;
+    color: black;
+    margin: 0;
+}
+
+div.contents {
+    margin-bottom: 10px;
+    padding: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    background-color: rgba(215, 244, 250, 0.284);
+    border-radius: 8px;
+}
+
+#titlearea {
+    background-color: rgba(188, 240, 254, 0.626);
+}
+
+#projectname {
+    font-family: fantasy;
+}
+
+hr.footer {
+    display: none;
+}
+
+.footer {
+    background-color: #AAA;
+}
